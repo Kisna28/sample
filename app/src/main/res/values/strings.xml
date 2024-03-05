@@ -5,5 +5,7 @@
 
     <string name="sign_up"> <u>Sign Up</u></string>
     <string name="sign_in"> <u>Sign In</u></string>
+    <string name="login">LogIn</string>
+
 
 </resources>

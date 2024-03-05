@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaulsMap>
+
+
+    <entry>
+        <key>login_submit_text</key>
+        <value>SignIn</value>
+    </entry>
+</defaulsMap>
